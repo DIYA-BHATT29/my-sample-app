@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Sample App</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+</head>
+<body>
+    <div class="container">
+        <img src="/image.png" alt="Hello, World! This is my sample app styled with CSS. Learn More" class="sample-image">
+    </div>
+</body>
+</html>
