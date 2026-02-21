@@ -28,3 +28,8 @@ my-sample-app/
 │   └── image.png        # Sample image (contains the text)
 └── templates/           # HTML templates
     └── index.html       # Main page template
+🛠️ Built With
+Flask – Python web framework
+
+HTML5 & CSS3 – Frontend structure and styling
+
